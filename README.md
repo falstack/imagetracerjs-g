@@ -18,6 +18,7 @@ imagetracerjs panda.png outfilename panda.svg scale 10
 ```
 
 - args & options：
+
 [see imagetracerjs](https://github.com/jankovicsandras/imagetracerjs#using-with-nodejs)
 
 ---
